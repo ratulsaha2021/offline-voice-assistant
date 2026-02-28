@@ -1,0 +1,5 @@
+The capital of Bangladesh is Dhaka.
+Kaggle is a platform for data science competitions and notebooks.
+Python is a popular language for machine learning and data science.
+Vosk is an offline speech recognition toolkit for many languages.
+pyttsx3 is an offline text to speech library for Python.

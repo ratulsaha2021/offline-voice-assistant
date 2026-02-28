@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+# Ignore the large model folder
+vosk-model-*/
